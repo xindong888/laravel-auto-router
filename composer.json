@@ -1,6 +1,6 @@
 {
   "name": "xindong888/laravel-auto-router",
-  "description": "description",
+  "description": "Automatically match routes based on URLs 根据网址自动匹配路由",
   "minimum-stability": "stable",
   "license": "proprietary",
   "version": "1.0.0",
